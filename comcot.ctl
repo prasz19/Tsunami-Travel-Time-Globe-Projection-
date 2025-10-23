@@ -9,7 +9,7 @@
 #===============================================:===============================
 #Job Description: NZ30sec bathymetry, Spherical Coordinates for code testing
  Total Simulated Duration (Wall clock, seconds) : 259200.000      
- Time interval to Save Data    ( unit: sec )    : 129600.0        
+ Time interval to Save Data    ( unit: sec )    : 3600.0        
  Zmax & Gauge Output  (0-ZMax Z;1-Gauge;2-Both) :     0          
  Start Type (0-Cold start; 1-Hot start)         :     0          
  Resuming Time for Hot Start          (Seconds) :     0.00       
